@@ -50,7 +50,6 @@ body {
 }
 .content {
   font-size: 16px;
-  text-align: justify;
 }
 
 .post-content>*:first-child {
@@ -166,6 +165,9 @@ body {
 }
 .content b {
   font-weight: 600;
+}
+.post-content {
+  text-align: justify;
 }
 .post-content img {
   display: block;
