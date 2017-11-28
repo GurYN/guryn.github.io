@@ -50,6 +50,7 @@ body {
 }
 .content {
   font-size: 16px;
+  text-align: justify;
 }
 
 .post-content>*:first-child {
